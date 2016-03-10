@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [articles\active-directory\active-directory-aadconnect-account-summary.md](https://github.com/OpenLocalizationTest/azuretest/blob/da686d3d36e5f49d350262e1335267af71ec1b59/articles/active-directory/active-directory-aadconnect-account-summary.md) | HandedOffSuccess | [Details](#3133ce288781c5f31d55129d23e5776ac31d00391)
+ [articles\machine-learning\machine-learning-algorithm-cheat-sheet.md](https://github.com/OpenLocalizationTest/azuretest/blob/66e9bfa9fa093e95b50955365e8afa422af720a5/articles/machine-learning/machine-learning-algorithm-cheat-sheet.md) | HandedOffSuccess | [Details](#a96586d9cc02c160c65a0ea59b4712cedf3deed78540)
 
 ## Item Details
-##### <a name='3133ce288781c5f31d55129d23e5776ac31d00391'></a> Source: [articles\active-directory\active-directory-aadconnect-account-summary.md](https://github.com/OpenLocalizationTest/azuretest/blob/da686d3d36e5f49d350262e1335267af71ec1b59/articles/active-directory/active-directory-aadconnect-account-summary.md)
+##### <a name='a96586d9cc02c160c65a0ea59b4712cedf3deed78540'></a> Source: [articles\machine-learning\machine-learning-algorithm-cheat-sheet.md](https://github.com/OpenLocalizationTest/azuretest/blob/66e9bfa9fa093e95b50955365e8afa422af720a5/articles/machine-learning/machine-learning-algorithm-cheat-sheet.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [active-directory-aadconnect-account-summary.c595e1f67a4320e8b74dcf9b9adefa9e2bd5349c.pl-pl.xlf](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/3f49595fafa8f0f1af189a2df9989241006bf816/ol-handoff/OpenLocalizationTest/azuretest.pl-pl/master/high/active-directory-aadconnect-account-summary.c595e1f67a4320e8b74dcf9b9adefa9e2bd5349c.pl-pl.xlf)
-* Handoff Datetime: 2016-03-10 01:20:53
+* Handoff File: [machine-learning-algorithm-cheat-sheet.b74ec79f7751871e9b87bba92483bce7869f8b26.pl-pl.xlf](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/1bdde97b4f90fd56d982b220cb99d1927015dbb7/ol-handoff/OpenLocalizationTest/azuretest.pl-pl/master/ht/machine-learning-algorithm-cheat-sheet.b74ec79f7751871e9b87bba92483bce7869f8b26.pl-pl.xlf)
+* Handoff Datetime: 2016-03-10 05:10:00
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
